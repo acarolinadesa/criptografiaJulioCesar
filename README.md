@@ -16,6 +16,7 @@ Conferi resumo criptográfico no https://www.browserling.com/tools/all-hashes e 
 Tentei submeter o arquivo answer.json via POST para a API, porém não estava conseguindo.
 No final, acabei submentendo pelo Postman.
 Conheci esse site para testar post em API -> Test your front-end against a real API: https://reqres.in/ 
+    
     Requisitos de envio do desafio:
     1 - A API espera um arquivo sendo enviado como multipart/form-data, como se fosse enviado por um formulário HTML, com um campo do tipo file com o nome answer.
     2 - Enviar código para [https://api.codenation.dev/v1/challenge/dev-ps/submit-solution?token=SEU_TOKEN]
